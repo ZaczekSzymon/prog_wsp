@@ -1,4 +1,4 @@
-//test
+//test wersja 3
 #include <omp.h>
 #include <iostream>
 using namespace std;
